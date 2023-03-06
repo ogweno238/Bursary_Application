@@ -1,0 +1,42 @@
+[10-Dec-2020 05:12:11 Europe/London] PHP Parse error:  syntax error, unexpected '?>' in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 118
+[10-Dec-2020 05:43:32 Europe/London] PHP Parse error:  syntax error, unexpected '?>' in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 118
+[10-Dec-2020 05:45:07 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:45:09 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:45:10 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:45:11 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:45:11 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:45:12 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:45:13 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:46:19 Europe/London] PHP Parse error:  syntax error, unexpected '?>' in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 118
+[10-Dec-2020 05:46:22 Europe/London] PHP Parse error:  syntax error, unexpected '?>' in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 118
+[10-Dec-2020 05:46:38 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:46:39 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:46:40 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:46:40 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:46:41 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/salutwin/public_html/Jkuat_Bursary_App/admin/pending-bursary.php on line 150
+[10-Dec-2020 05:48:51 Europe/London] PHP Parse error:  syntax error, unexpected '?>' in /home/salutwin/public_html/Jkuat_Bursary_App/admin/approved-bursary.php on line 118
+[10-Dec-2020 05:49:18 Europe/London] PHP Parse error:  syntax error, unexpected '?>' in /home/salutwin/public_html/Jkuat_Bursary_App/admin/not-approved-bursary.php on line 118
+[01-Jul-2021 02:33:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php:10
+Stack trace:
+#0 /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/epsafrif/public_html/Jkuat_Bursary_App/admin/releaseleave.php(4): include('/home/epsafrif/...')
+#2 {main}
+  thrown in /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php on line 10
+[01-Jul-2021 02:33:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php:10
+Stack trace:
+#0 /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/epsafrif/public_html/Jkuat_Bursary_App/admin/releaseleave.php(4): include('/home/epsafrif/...')
+#2 {main}
+  thrown in /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php on line 10
+[01-Jul-2021 02:34:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php:10
+Stack trace:
+#0 /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/epsafrif/public_html/Jkuat_Bursary_App/admin/releaseleave.php(4): include('/home/epsafrif/...')
+#2 {main}
+  thrown in /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php on line 10
+[01-Jul-2021 02:35:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php:10
+Stack trace:
+#0 /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/epsafrif/public_html/Jkuat_Bursary_App/admin/releaseleave.php(4): include('/home/epsafrif/...')
+#2 {main}
+  thrown in /home/epsafrif/public_html/Jkuat_Bursary_App/admin/dbconn.php on line 10

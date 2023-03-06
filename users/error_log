@@ -1,0 +1,37 @@
+[09-Dec-2020 18:46:28 Europe/London] PHP Notice:  Undefined index: login in /home/salutwin/public_html/Jkuat_Bursary_App/users/logout.php on line 4
+[10-Dec-2020 00:16:28 Asia/Kolkata] PHP Notice:  Undefined index: login in /home/salutwin/public_html/Jkuat_Bursary_App/users/logout.php on line 7
+[01-Jul-2021 01:17:34 UTC] PHP Notice:  Trying to get property of non-object in /home/epsafrif/public_html/Jkuat_Bursary_App/users/send_otp.php on line 18
+[01-Jul-2021 01:43:08 UTC] PHP Notice:  Trying to get property of non-object in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 18
+[01-Jul-2021 01:53:13 UTC] PHP Notice:  Undefined index: login in /home/epsafrif/public_html/Jkuat_Bursary_App/users/logout.php on line 4
+[01-Jul-2021 07:23:13 Asia/Kolkata] PHP Notice:  Undefined index: login in /home/epsafrif/public_html/Jkuat_Bursary_App/users/logout.php on line 7
+[01-Jul-2021 02:00:01 UTC] PHP Notice:  Undefined index: login in /home/epsafrif/public_html/Jkuat_Bursary_App/users/logout.php on line 4
+[01-Jul-2021 07:30:01 Asia/Kolkata] PHP Notice:  Undefined index: login in /home/epsafrif/public_html/Jkuat_Bursary_App/users/logout.php on line 7
+[01-Jul-2021 02:00:46 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 19
+[01-Jul-2021 02:00:50 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 19
+[01-Jul-2021 02:01:00 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 19
+[01-Jul-2021 02:01:01 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 19
+[01-Jul-2021 02:01:01 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 19
+[01-Jul-2021 02:01:01 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 19
+[01-Jul-2021 02:01:02 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 19
+[01-Jul-2021 02:01:03 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 19
+[01-Jul-2021 02:01:03 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 19
+[01-Jul-2021 02:02:02 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 22
+[01-Jul-2021 02:06:30 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[01-Jul-2021 02:10:45 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[01-Jul-2021 02:11:18 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[01-Jul-2021 02:12:19 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[01-Jul-2021 03:01:19 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[01-Jul-2021 11:20:56 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[12-Jul-2021 20:40:32 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[12-Jul-2021 20:45:01 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[14-Jul-2021 20:08:41 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[15-Jul-2021 21:52:06 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[15-Jul-2021 22:00:38 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[16-Jul-2021 06:53:08 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[16-Jul-2021 06:59:05 UTC] PHP Notice:  Undefined index: login in /home/epsafrif/public_html/Jkuat_Bursary_App/users/logout.php on line 4
+[16-Jul-2021 12:29:05 Asia/Kolkata] PHP Notice:  Undefined index: login in /home/epsafrif/public_html/Jkuat_Bursary_App/users/logout.php on line 7
+[16-Jul-2021 07:07:52 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[25-Jul-2021 19:05:57 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[26-Sep-2021 14:18:12 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[29-Sep-2021 20:40:15 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
+[29-Sep-2021 20:44:49 UTC] PHP Notice:  Undefined index: studID in /home/epsafrif/public_html/Jkuat_Bursary_App/users/verify_otp.php on line 25
